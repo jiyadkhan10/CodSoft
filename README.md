@@ -11,6 +11,7 @@ In order to achieve a successful completion of the Data Science internship, I wi
 <br />
 Link of Dataset:- https://www.kaggle.com/datasets/brendan45774/test-file <br />
 <br />
+
 # Task 02 - MOVIE RATING PREDICTION WITH PYTHON
 
 - Build a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem. <br />
@@ -19,6 +20,7 @@ Link of Dataset:- https://www.kaggle.com/datasets/brendan45774/test-file <br />
 <br />
 Link of Dataset:- https://www.kaggle.com/code/sherinclaudia/movie-rating-prediction/notebook <br />
 <br />
+
 # Task 03 - IRIS FLOWER CLASSIFICATION
 
 - The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species. <br />
@@ -34,6 +36,7 @@ Link of Dataset:- https://www.kaggle.com/datasets/arshid/iris-flower-dataset <br
 <br />
 Link of Dataset:- https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input <br />
 <br />
+
 # Task 05 - CREDIT CARD FRAUD DETECTION
 - Build a machine learning model to identify fraudulent credit card transactions. <br />
 - Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets. <br />
